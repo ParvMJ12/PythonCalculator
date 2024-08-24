@@ -1,2 +1,0 @@
-# GitCalculator
-Simple Python Calculator
